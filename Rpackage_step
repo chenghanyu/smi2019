@@ -160,7 +160,8 @@ usethis::use_readme_rmd()
 * GitHub renders the README.
 * Instructions on how to use the package (examples)
 * Instructions on installing 3rd-party dependencies
-* knitr ->
+* knit -> Tools -> Version Control -> commit
+
 
 
 ------------------
