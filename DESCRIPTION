@@ -1,0 +1,23 @@
+Package: smi2019
+Title: Gaussian Process with Derivative Information for Stationary Points
+Version: 0.0.0.9000
+Authors@R: person(given = "Cheng-Han",
+           family = "Yu",
+           role = c("aut", "cre"),
+           email = "uuuumike@gmail.com")
+Description: What the package does (one paragraph).
+Depends: R (>= 3.3.3)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    MASS,
+    rmarkdown
+RoxygenNote: 6.1.1
+Imports: 
+    graphics,
+    ggplot2,
+    dplyr,
+    Rcpp
+VignetteBuilder: knitr
